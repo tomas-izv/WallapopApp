@@ -1,0 +1,58 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.navbar {
+    background-color: #00bf6f;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #000 !important;
+}
+
+.nav-link {
+    color: #000 !important;
+}
+
+.nav-link:hover {
+    color: #333 !important;
+}
+
+.btn-ver-mas,
+.btn-primary {
+    background-color: #00bf6f;
+    border-color: #00bf6f;
+    color: #fff;
+}
+
+.btn-ver-mas:hover,
+.btn-primary:hover {
+    background-color: #009e5a;
+    border-color: #009e5a;
+    color: #fff;
+}
+
+.pagination .page-link {
+    color: #00bf6f;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #00bf6f;
+    border-color: #00bf6f;
+    color: #fff;
+}
+
+.pagination .page-link:hover {
+    color: #009e5a;
+}
+
+.form-check-highlight .form-check-input {
+    border-color: #00bf6f;
+    box-shadow: 0 0 5px rgba(0, 191, 111, 0.5);
+}
+
+.form-check-highlight .form-check-input:checked {
+    background-color: #00bf6f;
+    border-color: #00bf6f;
+}
